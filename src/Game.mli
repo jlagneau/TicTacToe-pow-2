@@ -1,0 +1,1 @@
+val newGame: unit -> unit

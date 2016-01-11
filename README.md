@@ -1,0 +1,3 @@
+# TicTacToe²
+
+Ocaml project
